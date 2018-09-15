@@ -1,0 +1,42 @@
+
+src/com/dgr/controller/HelloWorld.java:10	System.out.print is used
+src/com/dgr/controller/TestRequestMappingUrl.java:16	JUnit 4 tests that execute tests should use the @Test annotation
+src/com/dgr/controller/TestRequestMappingUrl.java:18	System.out.print is used
+src/com/dgr/controller/TestRequestMappingUrl.java:30	JUnit 4 tests that execute tests should use the @Test annotation
+src/com/dgr/controller/TestRequestMappingUrl.java:32	System.out.print is used
+src/com/dgr/controller/TestRequestMappingUrl.java:44	JUnit 4 tests that execute tests should use the @Test annotation
+src/com/dgr/controller/TestRequestMappingUrl.java:46	System.out.print is used
+src/com/dgr/controller/testRequestMappingParams.java:26	Class names should begin with an uppercase character
+src/com/dgr/controller/testRequestMappingParams.java:26	This class has too many methods, consider refactoring it.
+src/com/dgr/controller/testRequestMappingParams.java:28	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/dgr/controller/testRequestMappingParams.java:28	Private field 'user' could be made final; it is only initialized in the declaration or constructor.
+src/com/dgr/controller/testRequestMappingParams.java:30	JUnit 4 tests that execute tests should use the @Test annotation
+src/com/dgr/controller/testRequestMappingParams.java:32	Local variable 'mav' could be declared final
+src/com/dgr/controller/testRequestMappingParams.java:38	JUnit 4 tests that execute tests should use the @Test annotation
+src/com/dgr/controller/testRequestMappingParams.java:40	Local variable 'mav' could be declared final
+src/com/dgr/controller/testRequestMappingParams.java:49	JUnit 4 tests that execute tests should use the @Test annotation
+src/com/dgr/controller/testRequestMappingParams.java:50	Avoid variables with short names like pk
+src/com/dgr/controller/testRequestMappingParams.java:50	Parameter 'name' is not assigned and could be declared final
+src/com/dgr/controller/testRequestMappingParams.java:50	Parameter 'pk' is not assigned and could be declared final
+src/com/dgr/controller/testRequestMappingParams.java:51	System.out.print is used
+src/com/dgr/controller/testRequestMappingParams.java:52	System.out.print is used
+src/com/dgr/controller/testRequestMappingParams.java:53	The String literal "success" appears 11 times in this file; the first occurrence is on line 53
+src/com/dgr/controller/testRequestMappingParams.java:56	JUnit 4 tests that execute tests should use the @Test annotation
+src/com/dgr/controller/testRequestMappingParams.java:57	Avoid variables with short names like id
+src/com/dgr/controller/testRequestMappingParams.java:57	Parameter 'id' is not assigned and could be declared final
+src/com/dgr/controller/testRequestMappingParams.java:57	Parameter 'name' is not assigned and could be declared final
+src/com/dgr/controller/testRequestMappingParams.java:58	System.out.print is used
+src/com/dgr/controller/testRequestMappingParams.java:59	System.out.print is used
+src/com/dgr/controller/testRequestMappingParams.java:68	JUnit 4 tests that execute tests should use the @Test annotation
+src/com/dgr/controller/testRequestMappingParams.java:69	Parameter 'aaa' is not assigned and could be declared final
+src/com/dgr/controller/testRequestMappingParams.java:70	System.out.print is used
+src/com/dgr/controller/testRequestMappingParams.java:82	Local variable 'username' could be declared final
+src/com/dgr/controller/testRequestMappingParams.java:83	Local variable 'password' could be declared final
+src/com/dgr/controller/testRequestMappingParams.java:99	Local variable 'inputname' could be declared final
+src/com/dgr/pojo/Address.java:12	Parameter 'province' is not assigned and could be declared final
+src/com/dgr/pojo/Address.java:20	Parameter 'city' is not assigned and could be declared final
+src/com/dgr/pojo/User.java:14	Parameter 'name' is not assigned and could be declared final
+src/com/dgr/pojo/User.java:22	Parameter 'age' is not assigned and could be declared final
+src/com/dgr/pojo/User.java:30	Parameter 'address' is not assigned and could be declared final
+src/com/dgr/pojo/Users.java:9	Parameter 'name' is not assigned and could be declared final
+src/com/dgr/pojo/Users.java:15	Parameter 'pwd' is not assigned and could be declared final

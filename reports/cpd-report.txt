@@ -1,0 +1,10 @@
+Found a 6 line (55 tokens) duplication in the following files: 
+Starting at line 116 of E:\work\SpringMVCDayOne\src\com\dgr\controller\testRequestMappingParams.java
+Starting at line 134 of E:\work\SpringMVCDayOne\src\com\dgr\controller\testRequestMappingParams.java
+
+	public String testRestDelete(@RequestParam(value="inputname")String name,@RequestParam(value="inputpass")Integer pass,Model model){
+		String param1 = name;
+		Integer param2 = pass;
+		model.addAttribute("outnamme", param1);
+		model.addAttribute("outpass", param2);
+		System.out.println("Test RestDelete DELETE ÇëÇó²ÎÊý::: " + name + "," + pass);
